@@ -1,4 +1,4 @@
 {
-    "version": "1.1.5",
-    "changelog": "Mudança na forma de lidar com arquivos XML com codificação UTF-16, agora o script tenta ler como UTF-8 e remove a marca de ordem de byte (BOM) se presente, além de corrigir a declaração de codificação no início do arquivo."
+    "version": "1.1.6",
+    "changelog": "Mudança nos parametros do programa e na forma de atualização."
 }
